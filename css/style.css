@@ -1,0 +1,148 @@
+*{margin: 0;padding: 0;}
+header{background-color: #2D313F !important;}
+.container-fluid{padding-right: 0;}
+.sticky{position: fixed;z-index: 99999;width: 100%;}
+.navbar{padding: 0;line-height: 77px;}
+.navbar-light .navbar-nav .nav-link.active{color: #9399ae;line-height: 80px;letter-spacing: 1px;font-size: 17px;padding: 0 30px;font-family: 'Poppins', sans-serif;}
+.navbar-brand{padding-top: 0;padding-left: 8px;}
+.diff{background: #61698e;color: #f2f5ff !important;line-height: 80px;letter-spacing: 1px;font-size: 17px;padding: 0 30px;font-family: 'Poppins', sans-serif;}
+.active{font-size: 16px;font-weight: 400;letter-spacing: 0px;border-width: 0 !important;}
+.rent:hover{color: #f2f5ff !important;background-color: #61698e;transition: 0.5s;}
+.navbar-nav{margin-left: 170px;}
+.buy{font-family: 'Source Code Pro', monospace;color: #ffffff;background-color: #3d4358;font-size: 20px;font-weight: 600;margin: 0;top: 0;border-radius: 0;padding: 0 30px!important;line-height: 80px;border: none;border-color: rgba(255,255,255,.1);letter-spacing: 1px;}
+.buy:hover{color: #f2f5ff !important;background-color: #61698e;  transition: 0.5s;}
+.banner-total{width: 100%;background-color: rgb(41,44,54);padding: 170px 0px;}
+.row{margin: 0;padding: 0;}
+.ban-1t{background-color: rgba(48, 53, 71, 0.3);color: rgb(255, 255, 255);width: 100%;height: 80px;padding: 0;}
+.ban-1t span{font-family: "Source Code Pro" !important;height: auto;width: auto;color: rgb(81, 90, 120);text-decoration: none;line-height: 80px;font-weight: 600;font-size: 40px;padding-left: 95px;padding-right: 55px;}
+.ban-1t p{font-family: "Source Code Pro";height: auto;width: auto;color: rgb(132, 140, 151);line-height: 80px;font-weight: 600;font-size: 50px;transform-origin: 50% 50%;opacity: 1;}
+.ban-2t{width: 100%;height: 80px;padding: 0;}
+.ban-2t span{font-family: "Source Code Pro" !important;height: auto;width: auto;color: rgb(81, 90, 120);text-decoration: none;line-height: 80px;font-weight: 600;font-size: 40px;padding-left: 95px;padding-right: 55px;}
+.ban-2t p{font-family: "Source Code Pro" !important;color: rgb(174, 241, 255);text-align: left;line-height: 80px;letter-spacing: 0px;font-weight: 600;font-size: 50px;}
+.ban-2t p h1{display: inline-block !important;}
+.leg{display: inline-block;color: white !important;}
+.vala{display: inline-block;color: white !important;font-family: "Source Code Pro" !important;line-height: 80px;font-weight: 600;font-size: 50px;}
+.diss{display: inline-block;color: rgb(174, 241, 255) !important;}
+.tree{color: rgb(232, 163, 236);line-height: 80px;font-weight: 600;font-size: 50px;padding: 0px 30px;display: inline-block;}
+.leap{font-family: "Source Code Pro";color: rgb(255, 215, 156);text-align: left;line-height: 80px;letter-spacing: 0px;font-weight: 600;font-size: 50px;padding: 0px;display: inline-block;}
+.ban-3t{width: 100%;height: 80px;padding: 0;background-color: rgba(48, 53, 71, 0.3);}
+.jeta{font-family: "Source Code Pro" !important;color: rgb(174, 241, 255);text-align: left;line-height: 80px;letter-spacing: 0px;font-weight: 600;font-size: 50px;display: inline-block;margin: 0px 30px;}
+.sihabi{font-family: "Source Code Pro" !important;height: auto;width: auto;color: rgb(81, 90, 120);text-decoration: none;line-height: 80px;font-weight: 600;font-size: 40px;padding-left: 95px;padding-right: 55px;}
+.duni{color: rgb(232, 163, 236);line-height: 80px;font-weight: 600;font-size: 50px;display: inline-block;}
+.ban-3t p{font-family: "Source Code Pro" !important;color: rgb(174, 241, 255);text-align: left;line-height: 80px;letter-spacing: 0px;font-weight: 600;font-size: 50px;}
+.sky{display: inline-block;}
+.sky span{font-family: 'Source Code Pro', monospace !important;}
+.skies{display: inline-block;padding: 0px 25px;color: white !important;}
+.skies span{color: rgb(232, 163, 236) !important;line-height: 80px !important;font-weight: 600 !important;font-size: 50px !important;padding: 0px 0px 0px 30px;}
+.obelai{font-family: "Source Code Pro" !important;height: auto;width: auto;color: #ffd79c;text-decoration: none;line-height: 40px;font-weight: 600;font-size: 50px;padding-left: 5px;padding-right: 5px;display: inline-block;}
+.bomb{font-family: "Source Code Pro" !important;height: auto;width: auto;color: #fff;text-decoration: none;line-height: 80px;font-weight: 600;font-size: 50px;display: inline-block;}
+.ban-4t{width: 100%;height: 80px;padding: 0;}
+.ban-4t span{font-family: "Source Code Pro" !important;height: auto;width: auto;color: rgb(81, 90, 120);text-decoration: none;line-height: 80px;font-weight: 600;font-size: 40px;padding-left: 95px;padding-right: 55px;}
+.ban-4t p{font-family: "Source Code Pro" !important;color: rgb(174, 241, 255);text-align: left;line-height: 80px;letter-spacing: 0px;font-weight: 600;font-size: 50px;}
+.moun{display: inline-block;color: rgb(232, 163, 236) !important;}
+.he{color: rgb(174, 241, 255) !important; line-height: 80px !important;font-weight: 600 !important;font-size: 50px !important;padding: 0px 30px !important;}
+.tant span{color: rgb(255, 215, 156);text-align: left;line-height: 80px;letter-spacing: 0px;font-weight: 600;font-size: 50px;padding: 0;}
+.tant{display: inline-block;color: white !important;}
+.ban-5t{width: 100%;height: 80px;padding: 0;background-color: rgba(48, 53, 71, 0.3);}
+.M h1{display: inline-block;font-family: "Source Code Pro";color: rgb(215, 91, 131);line-height: 32px;font-weight: 700;font-size: 20px;background-color: rgb(77, 45, 64);padding: 30px 160px 30px 60px;}
+.M button{background-color: rgb(231, 97, 139);font-family: "Source Code Pro";color: rgb(255, 255, 255);line-height: 32px;font-weight: 700;font-size: 20px;padding: 30px 60px;filter: blur(0px) grayscale(0%) brightness(100%);border: none;margin-left: -4px;}
+.bio{background-color: #FFD79C;}
+.rose img{width: 84%;margin-left: 112px;}
+.flower h1{margin-top: 60px;margin-bottom: 55px;display: inline-block;background: rgba(44, 56, 98, 0.03);color: #2a3d7f;padding: 2px 15px;font-family: "Source Code Pro";font-size: 15px;line-height: 30px;font-weight: 400;letter-spacing: 3px;}
+.wood{font-size: 35px;line-height: 45px;font-weight: 600;font-family: "Source Code Pro";width: 77%;margin-bottom: 4rem;}
+.I{color: #e7618b;}
+.Y{color: #3e3de6;}
+.rock{color: #2c3862 !important;width: 77%;font-family: 'Poppins', sans-serif;line-height: 28px;margin-bottom: 65px;}
+.house{font-weight: 700;}
+.bla{padding: 0;}
+.fill{background-color: #ffe9bb;border: 1px solid #f5c886;height: 330px;width: 230px;padding: 60px 60px 0px 35px;margin-right: 10px;}
+.fill h1{font-family: 'Source Code Pro',Arial,Tahoma,sans-serif;font-size: 50px;line-height: 50px;font-weight: 600;letter-spacing: 0px;color: #7b4925;margin-bottom: 15px;}
+.fill p{font-size: 20px;line-height: 34px;font-weight: 600;color: #d8bc93;margin-bottom: 15px;font-family: 'Source Code Pro',Arial,Tahoma,sans-serif;}
+.tin{background-color: #cdf6ff;height: 370px;width: 230px;padding: 60px 60px 0px 35px;border: 1px solid #f5c886;}
+.tin h1{font-family: 'Source Code Pro',Arial,Tahoma,sans-serif;font-size: 50px;line-height: 50px;font-weight: 600;letter-spacing: 0px;color: #1f95b2;margin-bottom: 15px;}
+.tin p{font-family: 'Source Code Pro',Arial,Tahoma,sans-serif;font-size: 20px;line-height: 34px;font-weight: 600;letter-spacing: 0px;color: #1f95b2;}
+.yo{color: #ffffff;background-color: #e7618b;border-color: transparent;font-family: Source Code Pro;font-size: 20px;line-height: 20px;font-weight: 600;letter-spacing: 0px;margin-top: 60px;margin-bottom: 60px;padding: 30px 60px 30px 60px;}
+.lol img{height: 725px;margin-left: 120px;}
+.space{height: 110px;width: 480px;border: 1px solid rgba(0,0,0,0.08);padding: 15px 15px 15px 0;display: flex;margin-bottom: 30px;}
+.space i{font-size: 30px;padding-left: 20px;padding-right: 20px;color: rgba(0,0,0,.15);}
+.dot{border-left: 1px solid rgba(0,0,0,0.08);height: 70px;width: 1px;color: rgba(0,0,0,.15);}
+.space p{color: #2c3862;padding: 10px 15px 10px 20px;font-family: 'Poppins', sans-serif;}
+.personal{background-image: url(../img/background.png) !important;background-position: center;background-repeat: no-repeat;padding: 130px 0px;background-color: #EDEFF3;border-bottom: 1px solid #B4B9C2;}
+.sad h1{margin-bottom: 70px;margin-bottom: 55px !important;display: inline-block;background: rgba(44, 56, 98, 0.03);color: #2a3d7f;padding: 2px 15px;font-family: "Source Code Pro";font-size: 15px;line-height: 30px;font-weight: 400;letter-spacing: 3px;}
+.sad p{font-family: 'Source Code Pro',Arial,Tahoma,sans-serif;font-size: 35px;line-height: 45px;font-weight: 600;letter-spacing: 0px;color: #232b46;width: 80%;margin-bottom: 100px;}
+.no{color: #f47aa0;}
+.matter{color: #423cc1;}
+.grab{padding-bottom: 80px;}
+.O{margin-top: 80px;}
+.oxigen h4{padding: 50px 0px 20px 0px;font-size: 26px;line-height: 40px;font-weight: 600;letter-spacing: 0px;color: #232b46;font-family: 'Source Code Pro',Arial,Tahoma,sans-serif;}
+.oxigen p{font-family: 'Poppins', sans-serif;line-height: 30px;padding-right: 100px;}
+.oxigen p span{font-weight: 700;}
+.syl{padding-top: 100px;}
+.syl h1{display: inline-block;color: rgb(215, 91, 131);line-height: 32px;font-size: 20px;background-color: #eee3eb;color: #e7618b;padding: 25px 170px 25px 30px;font-style: italic;}
+.syl button{background-color: rgb(231, 97, 139);font-family: "Source Code Pro";color: rgb(255, 255, 255);line-height: 32px;font-weight: 700;font-size: 20px;padding: 25px 60px;filter: blur(0px) grayscale(0%) brightness(100%);border: none;margin-left: -4px;}
+.syl button:hover {background-color: #c61950;}
+.slide{background-color: #EDEFF3;}
+.ies{padding-top: 130px;}
+.slide-down{background-image: url(../img/abcd.png);background-position: center;background-repeat: no-repeat;background-size: cover;padding: 110px 0px;}
+.apna{background-color: #F7F9FE;padding: 30px;width: 800px;height: 450px;margin-left: 275px;margin-bottom: 100px;}
+.parva{text-align: center;}
+.parva img{margin-bottom: 40px;}
+.parva p{font-family: 'Source Code Pro', monospace;font-weight: 700;color: #232b46;font-size: 20px;line-height: 25px;font-style: italic;padding: 0px 75px;}
+.gana{display: inline-block;}
+.keya{display: inline-block;height: 5px;width: 5px;background-color: #e7618b!important;border-radius: 50px;margin: 20px 3px;}
+.parva h1{font-family: 'Source Code Pro', monospace;font-weight: 600;color: #232b46;font-size: 20px;line-height: 25px;}
+.review{text-align: end;padding-right: 90px;}
+.review span{background-color: rgb(240, 190, 72);padding: 9px;line-height: 20px;font-size: 14px;color: white;border-radius: 50%;margin: 2px;}
+.review span i{margin-bottom: 30px;}
+.review h1{font-family: 'Source Code Pro',Arial,Tahoma,sans-serif;font-size: 70px;line-height: 70px;font-weight: 600;letter-spacing: -10px;color: #232b46;margin-bottom: 15px;}
+.review p{font-family: "Poppins", Helvetica, Arial, sans-serif;color: #2c3862;font-size: 16px;line-height: 30px;font-weight: 400;letter-spacing: 0px;}
+.brand{background-image: url(../img/photos-7.png);background-color: #423cc1;background-position: center;background-repeat: no-repeat;background-size: cover;padding: 130px 0px;}
+.shorir span h3{margin-left: 450px;display: inline-block;background: #4a45c4;color: #f3f3fb;padding: 2px 15px;font-size: 15px;line-height: 30px;font-weight: 400;margin-bottom: 15px;letter-spacing: 3px;margin-bottom: 50px;font-family: "Source Code Pro", Helvetica, Arial, sans-serif;}
+.amra img{width: 15%;display: inline-block;padding: 0px 20px;}
+.amra{margin: 0px 50px;}
+.amra img:hover{background-color: #3F39B7;transition: 0.3s;}
+.form{background-color: #292c36;padding: 120px 0px;}
+.zarra h1{background: #333640 !important;color: #848c97 !important;margin-bottom: 70px;margin-bottom: 55px !important;display: inline-block;background: rgba(44, 56, 98, 0.03);color: #2a3d7f;padding: 2px 15px;font-family: "Source Code Pro";font-size: 15px;line-height: 30px;font-weight: 400;letter-spacing: 3px;}
+.zarra p{font-family: 'Source Code Pro',Arial,Tahoma,sans-serif;font-size: 35px;line-height: 45px;font-weight: 600;letter-spacing: 0px;color: #aef1ff;margin-bottom: 100px;width: 57%;}
+.bri{color: white;}
+.tain{color: #ffd79c;}
+.nir{color: #e8a3ec;}
+.manush{background-color: #2F323D;padding: 80px 40px;}
+.manush h1{font-family: 'Source Code Pro',Arial,Tahoma,sans-serif;color: #aef1ff;font-size: 26px;line-height: 40px;font-weight: 600;}
+.manush p{color: #7a828d;margin: 0 0 15px;width: 260px;font-size: 17px;margin-bottom: 45px;}
+.manush h2{font-size: 20px;line-height: 34px;font-weight: 600;color: #f47aa0;font-family: 'Source Code Pro',Arial,Tahoma,sans-serif;}
+.positive{height: 1px;background-color: #e2e2e2;width: 90px;}
+.story{color: #ffd79c;font-size: 35px;line-height: 45px;font-weight: 600;letter-spacing: 0px;font-family: "Source Code Pro", Helvetica, Arial, sans-serif;margin-bottom: 15px;margin-top: 8px;}
+.contact-1{width: 100%;color: white;padding: 7px;background-color: rgba(34,37,46,1);margin-bottom: 15px;border: none;font-weight: 600;}
+.contact-2{width: 49%;color: white;padding: 7px;background-color: rgba(34,37,46,1);margin-bottom: 15px;border: none;font-weight: 600;margin-right: 8px;}
+.contact-3{width: 49%;color: white;padding: 7px;background-color: rgba(34,37,46,1);margin-bottom: 15px;border: none;font-weight: 600;}
+.contact-4{width: 100%;color: white;padding: 7px;background-color: rgba(34,37,46,1);margin-bottom: 15px;border: none;font-weight: 600;}
+.contact-5{width: 100%;color: white;padding: 7px;background-color: rgba(34,37,46,1);margin-bottom: 15px;border: none;font-weight: 600;height: 200px;padding: 5px 0px 165px 10px;}
+.veer{background-color: rgb(231, 97, 139);font-family: "Source Code Pro";color: rgb(255, 255, 255);font-weight: 600;font-size: 20px;padding: 25px 60px;filter: blur(0px) grayscale(0%) brightness(100%);border: none;width: 100%;}
+.veer:hover{background-color: #c61950;}
+.yo:hover{background-color: #c61950;}
+.M button:hover{background-color: #c61950;}
+.M{margin-left: 150px;}
+.footer{padding: 80px 0px;background-color: #292c36;border-bottom: 1px solid white;}
+.jao h5{font-size: 20px;line-height: 34px;font-weight: 600;color: #f2f5ff;font-family: "Source Code Pro", Helvetica, Arial, sans-serif;margin-bottom: 80px;}
+.jao span i{color: #3b4471;font-size: 28px;margin-left: 20px;}
+.lela h5{font-size: 20px;line-height: 34px;font-weight: 600;color: #f2f5ff;font-family: "Source Code Pro", Helvetica, Arial, sans-serif;margin-bottom: 80px;}
+.lela span i{color: #3b4471;font-size: 30px;}
+.suda h5{font-size: 20px;line-height: 34px;font-weight: 600;color: #f2f5ff;font-family: "Source Code Pro", Helvetica, Arial, sans-serif;margin-bottom: 80px; }
+.suda span i{color: #3b4471;font-size: 30px;}
+.december{color: #aef1ff;font-weight: 500;margin-bottom: 2rem;}
+.memory{color: #df9de3;}
+.fell{color: #ffd79c;}
+.roya{color: #aef1ff;font-weight: 500;font-size: 18px;margin-bottom: 2rem;}
+.mila{color: #fff;}
+.dard{color: #df9de3;}
+.push{margin: 0 0 15px;color: #cccccc;width: 285px;font-size: 17px;}
+.suda h2{color: #cccccc;font-size: 18px;}
+.suda h3{color: #aef1ff;font-size: 18px;}
+.suda h3 span{color: #ffd79c;}
+.tomar{color: #ffd79c;font-size: 17px;font-weight: 400;}
+.tomar span{color: #aef1ff;}
+.suda h4{font-size: 18px;color: #df9de3;}
+.end{padding: 25px 0px;background-color: #292c36;}
+.scil{color: #3b4471;}
+.voy h1{text-align: center;color: #cccccc;font-size: 18px;font-weight: 400;}

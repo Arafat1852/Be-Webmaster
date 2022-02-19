@@ -1,0 +1,154 @@
+/*##Device = Tablets, Ipads (portrait)*/
+@media (min-width: 768px) and (max-width: 1024px) {
+.amra{margin: 0px 0px !important;}
+.space{width: 350px !important;}
+.M h1{padding: 20px 25px 20px 50px !important;line-height: 26px !important;font-size: 17px !important;padding: 17px 25px 17px 25px !important;margin-left: 45px !important;}
+.M button{font-size: 18px !important;padding: 13px 25px !important;}
+.M{margin-left: 0px !important;}
+.manush h1{line-height: 34px !important;font-weight: 600 !important;}
+.manush p{width: 165px !important;font-size: 15px !important;}
+.manush h2{font-size: 19px !important;line-height: 29px !important;margin-bottom: 15px !important;}
+.positive{width: 105px !important;}
+.story{font-size: 30px !important;line-height: 38px !important;}
+.contact-3{width: 48% !important;}
+.contact-2{width: 48% !important;}
+.zarra p{font-size: 30px !important;line-height: 38px !important;margin-bottom: 55px !important;}
+.zarra h1{font-size: 13px !important;line-height: 26px !important;margin-bottom: 45px !important;}
+.brand{padding: 130px 0px 130px !important;}
+.shorir span h3{margin-left: 250px !important;margin-bottom: 70px !important;}
+.review{padding-right: 50px !important;}
+.apna{margin-left: 180px !important;width: 525px !important;height: 470px !important;}
+.parva p{font-size: 18px !important;line-height: 28px !important;}
+.say h1{font-size: 13px !important;}
+.syl h1{padding: 25px 90px 25px 30px !important;}
+.syl button{padding: 25px 50px !important;}
+.oxigen p{padding-right: 10px !important;font-size: 14px !important;}
+.oxigen h4{font-size: 22px !important;}
+.sad p{font-size: 30px !important;line-height: 38px !important;width: 85% !important;}
+.sad h1{font-size: 13px !important;}
+.lol img{height: 500px !important;margin-left: 25px !important;margin-top: 215px !important;}
+.tin{width: 180px !important;padding: 40px 20px 0px 35px !important;}
+.fill{margin-right: 5px !important;padding: 40px 0px 0px 35px !important;width: 175px !important;}
+.flower h1{font-size: 13px !important;}
+.rose img{margin-left: 70px !important;}
+.rock{font-size: 14px !important;margin-bottom: 40px !important;width: 82% !important;line-height: 25px !important;}
+.wood{font-size: 30px !important;margin-bottom: 2rem !important;margin-bottom: 2rem !important;line-height: 40px !important;}
+.pata{display: none;}
+.banner-total{padding: 145px 0px !important;}
+.ban-4t{height: 60px !important;}
+.ban-5t{height: 60px !important;}
+.ban-3t span{font-size: 25px !important;}
+.ban-3t p{line-height: 55px !important;font-size: 30px !important;}
+.skies span{font-size: 30px !important;}
+.ban-1t{height: 60px !important;}
+.ban-1t p{font-size: 31px !important;line-height: 0px !important;}
+.ban-1t span{font-size: 25px !important;padding-left: 50px !important;padding-right: 30px !important;line-height: 60px !important;}
+.ban-2t span{font-size: 25px !important;line-height: 40px !important;padding-left: 50px !important;padding-right: 35px !important;}
+.tree{line-height: 40px !important;font-size: 31px !important;padding: 0px 10px !important;}
+.leap{line-height: 40px !important;font-size: 31px !important;}
+.vala{line-height: 40px !important;font-size: 31px !important;}
+.ban-2t{height: 60px !important;}
+.ban-2t p{font-size: 31px !important;line-height: 55px !important;}
+.sihabi{line-height: 40px !important;padding-left: 50px !important;padding-right: 35px !important;}
+.ban-3t{height: 60px !important;}
+.skies{padding: 0px 10px !important;}
+.duni{line-height: 40px !important;font-size: 31px !important;padding: 0px 0px 0px 0px !important;}
+.ban-4t span{font-size: 25px !important;padding-left: 50px !important;padding-right: 35px !important;line-height: 40px !important;}
+.ban-4t p{font-size: 31px !important;line-height: 40px !important;}
+.jeta{font-size: 31px !important;line-height: 60px !important;margin: 0px 13px !important;}
+.tant span {line-height: 40px !important;}
+.obelai{font-size: 31px !important;padding-left: 0px !important;padding-right: 0px !important;}
+.bomb{line-height: 40px !important;font-size: 31px !important;}
+.navbar-light .navbar-toggler{margin-left: 300px !important;}
+}
+/*##Device = Most of the Smartphones Mobiles (Portrait)*/
+@media (min-width: 320px) and (max-width: 480px) {  
+.shorir span h3{margin-left: 0px !important;font-size: 13px !important;line-height: 28px !important;text-align: center;}
+.apna{width: 100% !important;margin-left: 0px !important;}
+.M{margin-left: 0px !important;}
+.rose img{margin-left: 20px !important;}
+.ban-1t p{line-height: 30px !important;font-size: 15px !important;}
+.ban-2t p{line-height: 20px !important;font-size: 15px !important;}
+.ban-4t p{line-height: 30px !important;font-size: 15px !important;}
+.ban-3t p{line-height: 30px !important;font-size: 15px !important;}
+.navbar-nav{margin-left: 0px !important;}
+.jeta{line-height: 30px !important;font-size: 15px !important;margin: 0px 5px !important;}
+.ghumsuda{display: none;}
+.navbar{line-height: 65px !important;}
+.banner-total{padding: 70px 0px !important;}
+.ban-1t span{line-height: 10px !important;font-size: 12px !important;padding-left: 20px !important;padding-right: 15px !important;}
+.ban-1t{height: 30px !important;}
+.ban-2t span{line-height: 20px !important;font-size: 12px !important;padding-left: 20px !important;padding-right: 15px !important;}
+.tree{line-height: 20px !important;font-size: 15px !important;padding: 0px 5px !important;}
+.leap{line-height: 20px !important;font-size: 15px !important;}
+.ban-2t{height: 30px !important;}
+.vala{line-height: 0px !important;font-size: 15px !important;}
+.sihabi{line-height: 20px !important;font-size: 12px !important;padding-left: 20px !important;padding-right: 15px !important;}
+.skies{padding: 0px 5px !important;}
+.duni{line-height: 30px !important;font-size: 15px !important;}
+.ban-3t{height: 30px !important;}
+.ban-4t span{padding-left: 0px !important;padding-right: 0px !important;line-height: 30px !important;font-size: 14px !important;padding-left: 20px !important;padding-right: 15px !important;}
+.obelai{line-height: 30px !important;font-size: 15px !important;padding-left: 2px !important;padding-right: 2px !important;}
+.bomb{line-height: 30px !important;font-size: 15px !important;}
+.ban-4t{height: 30px !important;}
+.ban-5t{height: 30px !important;}
+.M h1{font-size: 9px !important;padding: 0px 10px 0px 10px !important;line-height: 31px !important;margin-left: 5px !important;}
+.M button{line-height: 31px !important;font-size: 9px !important;padding: 0px 15px !important;}
+.lol img{display: none !important;}
+.flower h1{margin-top: 40px !important;margin-bottom: 30px !important;padding: 0px 10px !important;font-size: 13px !important;line-height: 25px !important;}
+.flower{padding: 0px 36px !important;}
+.wood{font-size: 21px !important;width: 100% !important;line-height: 28px !important;margin-bottom: 2rem !important;margin-top: 10px !important;}
+.rock{width: 100% !important;line-height: 20px !important;margin-bottom: 30px !important;font-size: 13px !important;}
+.fill p{text-align: center;line-height: 20px !important;font-size: 13px !important;}
+.fill{height: 100% !important;width: 100% !important;padding: 35px 15% 25px !important;}
+.tin h1{text-align: center !important;}
+.tin{height: 100% !important;width: 100% !important;padding: 35px 15% 25px !important;margin-top: 20px !important;}
+.amra{margin: 0 !important;}
+.pherata{padding: 0px 36px !important;}
+.fill h1{text-align: center !important;}
+.tin p{font-size: 13px !important;text-align: center;line-height: 20px !important;}
+.yo{margin-top: 30px !important;margin-bottom: 30px !important;}
+.space p{font-size: 13px !important;}
+.dot{border-left: 2px solid rgba(0,0,0,0.08);}
+.space{width: 100% !important;height: 100px !important;margin-bottom: 40px !important;}
+.sad h1{font-size: 13px !important;line-height: 0px !important;}
+.sad p{font-size: 21px !important;width: 95% !important;margin-bottom: 50px !important;line-height: 25px !important;}
+.personal{padding: 130px 10px !important;}
+.oxigen h4{padding: 0px !important;font-size: 16px !important;line-height: 50px !important;}
+.oxigen p{line-height: 20px !important;padding-right: 0px !important;font-size: 13px !important;}
+.grab{padding-bottom: 0px !important;}
+.syl h1{padding: 20px 20px 20px 20px !important;}
+.syl button{line-height: 0px !important;font-size: 15px !important;padding: 36px 9px !important;}
+.slide-down{background-size: 0px !important;padding: 90px 23px !important;}
+.parva p{padding: 0px !important;line-height: 18px !important;padding: 0px 51px !important;font-size: 13px !important;}
+.parva h1{font-size: 14px !important;line-height: 0px !important;}
+.review h1{font-size: 70px !important;line-height: 70px !important;letter-spacing: -10px !important;text-align: center !important;}
+.review{padding-right: 0px !important;}
+.review p{font-size: 14px !important;}
+.parple{text-align: center;}
+.brand{padding: 120px 20px !important;}
+.amra img{width: 49% !important;padding: 10px 20px !important;}
+.form{padding: 100px 15px !important;}
+.zarra h1{margin-bottom: 55px !important;font-size: 13px !important;line-height: 25px !important;letter-spacing: 0px !important;}
+.zarra p{font-size: 20px !important;line-height: 31px !important;margin-bottom: 30px !important;width: 100% !important;}
+.manush{padding: 55px 15px !important;}
+.manush h1{font-size: 16px !important;line-height: 25px !important;text-align: center !important;}
+.manush p{margin-bottom: 25px !important;width: 100% !important;text-align: center !important;font-size: 15px !important;}
+.manush h2{text-align: center !important;font-size: 17px !important;line-height: 30px !important;}
+.positive{margin-left: 81px !important;}
+.story{font-size: 20px !important;line-height: 35px !important;margin-bottom: 10px !important;margin-top: 5px !important;text-align: center;}
+.contact-2{width: 100% !important;}
+.contact-3{width: 100% !important;}
+.veer{padding: 22px 60px !important;margin-top: 5px;}
+.footer{padding: 65px 13px !important;}
+.jao h5{font-size: 13px !important;margin-bottom: 50px !important;}
+.lela h5{font-size: 13px !important;margin-bottom: 40px !important;margin-top: 40px !important;}
+.push{font-size: 13px !important;}
+.roya{font-size: 13px !important;}
+.suda h5{font-size: 13px !important;}
+.suda h2{font-size: 13px !important;}
+.suda h3{font-size: 13px !important;}
+.tomar{font-size: 13px !important;}
+.suda h4{font-size: 13px !important;}
+.voy h1{font-size: 13px !important;text-align: center;}
+}
